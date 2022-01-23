@@ -1,0 +1,10 @@
+D:\Users\ray_m\source\Data-Structures-with-CSharp\01. Fundamentals\02. Linear Data Structures - Exercise\03.ReversedList\bin\Debug\netcoreapp3.1\03.ReversedList.deps.json
+D:\Users\ray_m\source\Data-Structures-with-CSharp\01. Fundamentals\02. Linear Data Structures - Exercise\03.ReversedList\bin\Debug\netcoreapp3.1\03.ReversedList.dll
+D:\Users\ray_m\source\Data-Structures-with-CSharp\01. Fundamentals\02. Linear Data Structures - Exercise\03.ReversedList\bin\Debug\netcoreapp3.1\03.ReversedList.pdb
+D:\Users\ray_m\source\Data-Structures-with-CSharp\01. Fundamentals\02. Linear Data Structures - Exercise\03.ReversedList\obj\Debug\netcoreapp3.1\03.ReversedList.csproj.AssemblyReference.cache
+D:\Users\ray_m\source\Data-Structures-with-CSharp\01. Fundamentals\02. Linear Data Structures - Exercise\03.ReversedList\obj\Debug\netcoreapp3.1\03.ReversedList.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ray_m\source\Data-Structures-with-CSharp\01. Fundamentals\02. Linear Data Structures - Exercise\03.ReversedList\obj\Debug\netcoreapp3.1\03.ReversedList.AssemblyInfoInputs.cache
+D:\Users\ray_m\source\Data-Structures-with-CSharp\01. Fundamentals\02. Linear Data Structures - Exercise\03.ReversedList\obj\Debug\netcoreapp3.1\03.ReversedList.AssemblyInfo.cs
+D:\Users\ray_m\source\Data-Structures-with-CSharp\01. Fundamentals\02. Linear Data Structures - Exercise\03.ReversedList\obj\Debug\netcoreapp3.1\03.ReversedList.csproj.CoreCompileInputs.cache
+D:\Users\ray_m\source\Data-Structures-with-CSharp\01. Fundamentals\02. Linear Data Structures - Exercise\03.ReversedList\obj\Debug\netcoreapp3.1\03.ReversedList.dll
+D:\Users\ray_m\source\Data-Structures-with-CSharp\01. Fundamentals\02. Linear Data Structures - Exercise\03.ReversedList\obj\Debug\netcoreapp3.1\03.ReversedList.pdb

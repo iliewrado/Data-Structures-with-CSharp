@@ -1,0 +1,10 @@
+D:\Users\ray_m\source\Data-Structures-with-CSharp\01. Fundamentals\02. Linear Data Structures - Exercise\04.BalancedParentheses\bin\Debug\netcoreapp3.1\04.BalancedParentheses.deps.json
+D:\Users\ray_m\source\Data-Structures-with-CSharp\01. Fundamentals\02. Linear Data Structures - Exercise\04.BalancedParentheses\bin\Debug\netcoreapp3.1\04.BalancedParentheses.dll
+D:\Users\ray_m\source\Data-Structures-with-CSharp\01. Fundamentals\02. Linear Data Structures - Exercise\04.BalancedParentheses\bin\Debug\netcoreapp3.1\04.BalancedParentheses.pdb
+D:\Users\ray_m\source\Data-Structures-with-CSharp\01. Fundamentals\02. Linear Data Structures - Exercise\04.BalancedParentheses\obj\Debug\netcoreapp3.1\04.BalancedParentheses.csproj.AssemblyReference.cache
+D:\Users\ray_m\source\Data-Structures-with-CSharp\01. Fundamentals\02. Linear Data Structures - Exercise\04.BalancedParentheses\obj\Debug\netcoreapp3.1\04.BalancedParentheses.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ray_m\source\Data-Structures-with-CSharp\01. Fundamentals\02. Linear Data Structures - Exercise\04.BalancedParentheses\obj\Debug\netcoreapp3.1\04.BalancedParentheses.AssemblyInfoInputs.cache
+D:\Users\ray_m\source\Data-Structures-with-CSharp\01. Fundamentals\02. Linear Data Structures - Exercise\04.BalancedParentheses\obj\Debug\netcoreapp3.1\04.BalancedParentheses.AssemblyInfo.cs
+D:\Users\ray_m\source\Data-Structures-with-CSharp\01. Fundamentals\02. Linear Data Structures - Exercise\04.BalancedParentheses\obj\Debug\netcoreapp3.1\04.BalancedParentheses.csproj.CoreCompileInputs.cache
+D:\Users\ray_m\source\Data-Structures-with-CSharp\01. Fundamentals\02. Linear Data Structures - Exercise\04.BalancedParentheses\obj\Debug\netcoreapp3.1\04.BalancedParentheses.dll
+D:\Users\ray_m\source\Data-Structures-with-CSharp\01. Fundamentals\02. Linear Data Structures - Exercise\04.BalancedParentheses\obj\Debug\netcoreapp3.1\04.BalancedParentheses.pdb
