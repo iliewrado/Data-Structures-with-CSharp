@@ -1,0 +1,13 @@
+D:\Users\ray_m\source\Data-Structures-with-CSharp\Tree\bin\Debug\netcoreapp3.1\Tree.exe
+D:\Users\ray_m\source\Data-Structures-with-CSharp\Tree\bin\Debug\netcoreapp3.1\Tree.deps.json
+D:\Users\ray_m\source\Data-Structures-with-CSharp\Tree\bin\Debug\netcoreapp3.1\Tree.runtimeconfig.json
+D:\Users\ray_m\source\Data-Structures-with-CSharp\Tree\bin\Debug\netcoreapp3.1\Tree.runtimeconfig.dev.json
+D:\Users\ray_m\source\Data-Structures-with-CSharp\Tree\bin\Debug\netcoreapp3.1\Tree.dll
+D:\Users\ray_m\source\Data-Structures-with-CSharp\Tree\bin\Debug\netcoreapp3.1\Tree.pdb
+D:\Users\ray_m\source\Data-Structures-with-CSharp\Tree\obj\Debug\netcoreapp3.1\Tree.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ray_m\source\Data-Structures-with-CSharp\Tree\obj\Debug\netcoreapp3.1\Tree.AssemblyInfoInputs.cache
+D:\Users\ray_m\source\Data-Structures-with-CSharp\Tree\obj\Debug\netcoreapp3.1\Tree.AssemblyInfo.cs
+D:\Users\ray_m\source\Data-Structures-with-CSharp\Tree\obj\Debug\netcoreapp3.1\Tree.csproj.CoreCompileInputs.cache
+D:\Users\ray_m\source\Data-Structures-with-CSharp\Tree\obj\Debug\netcoreapp3.1\Tree.dll
+D:\Users\ray_m\source\Data-Structures-with-CSharp\Tree\obj\Debug\netcoreapp3.1\Tree.pdb
+D:\Users\ray_m\source\Data-Structures-with-CSharp\Tree\obj\Debug\netcoreapp3.1\Tree.genruntimeconfig.cache
