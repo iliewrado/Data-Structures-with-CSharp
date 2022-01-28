@@ -108,7 +108,38 @@
 
         public void Swap(T firstKey, T secondKey)
         {
-            
+            Tree<T> firstTree = this.FindBfs(firstKey);
+            this.CheckEmptyNode(firstTree);
+            Tree<T> secondTree = this.FindBfs(secondKey);
+            this.CheckEmptyNode(secondTree);
+
+            var firstParent = firstTree.Parent;
+            var secondParent = secondTree.Parent;
+
+            if (firstTree.Parent == null)
+            {
+                this.Value = secondTree.Value;
+                this._children.Clear();
+                this._children.AddRange(secondTree._children);
+            }
+            else if (secondTree.Parent == null)
+            {
+                this.Value = firstTree.Value;
+                this._children.Clear();
+                this._children.AddRange(firstTree._children);
+            }
+            else
+            {
+                firstTree.Parent = secondParent;
+                secondTree.Parent = firstParent;
+
+                int indexOfFirst = firstParent._children.IndexOf(firstTree);
+                int indexOfSecond = secondParent._children.IndexOf(secondTree);
+
+                firstParent._children[indexOfFirst] = secondTree;
+                secondParent._children[indexOfSecond] = firstTree;
+            }
+
         }
         
         private void Dfs(Tree<T> tree, List<T> result)
@@ -121,7 +152,7 @@
             result.Add(tree.Value);
         }
 
-        private Tree<T> FindBfs(T parentKey)
+        private Tree<T> FindBfs(T key)
         {
             Queue<Tree<T>> temp = new Queue<Tree<T>>();
             temp.Enqueue(this);
@@ -129,7 +160,7 @@
             while (temp.Count > 0)
             {
                 Tree<T> node = temp.Dequeue();
-                if (node.Value.Equals(parentKey))
+                if (node.Value.Equals(key))
                 {
                     return node;
                 }
