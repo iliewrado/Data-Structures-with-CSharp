@@ -13,7 +13,7 @@
 
         public void AddFirst(T item)
         {
-            var newNode = new Node<T>
+            Node<T> newNode = new Node<T>
             {
                 Item = item,
                 Next = this.head
