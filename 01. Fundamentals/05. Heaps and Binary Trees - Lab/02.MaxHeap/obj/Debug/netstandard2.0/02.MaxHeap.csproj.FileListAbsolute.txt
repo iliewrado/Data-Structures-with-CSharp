@@ -1,0 +1,10 @@
+D:\Users\ray_m\source\Data-Structures-with-CSharp\01. Fundamentals\05. Heaps and Binary Trees - Lab\02.MaxHeap\bin\Debug\netstandard2.0\02.MaxHeap.deps.json
+D:\Users\ray_m\source\Data-Structures-with-CSharp\01. Fundamentals\05. Heaps and Binary Trees - Lab\02.MaxHeap\bin\Debug\netstandard2.0\02.MaxHeap.dll
+D:\Users\ray_m\source\Data-Structures-with-CSharp\01. Fundamentals\05. Heaps and Binary Trees - Lab\02.MaxHeap\bin\Debug\netstandard2.0\02.MaxHeap.pdb
+D:\Users\ray_m\source\Data-Structures-with-CSharp\01. Fundamentals\05. Heaps and Binary Trees - Lab\02.MaxHeap\obj\Debug\netstandard2.0\02.MaxHeap.csproj.AssemblyReference.cache
+D:\Users\ray_m\source\Data-Structures-with-CSharp\01. Fundamentals\05. Heaps and Binary Trees - Lab\02.MaxHeap\obj\Debug\netstandard2.0\02.MaxHeap.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ray_m\source\Data-Structures-with-CSharp\01. Fundamentals\05. Heaps and Binary Trees - Lab\02.MaxHeap\obj\Debug\netstandard2.0\02.MaxHeap.AssemblyInfoInputs.cache
+D:\Users\ray_m\source\Data-Structures-with-CSharp\01. Fundamentals\05. Heaps and Binary Trees - Lab\02.MaxHeap\obj\Debug\netstandard2.0\02.MaxHeap.AssemblyInfo.cs
+D:\Users\ray_m\source\Data-Structures-with-CSharp\01. Fundamentals\05. Heaps and Binary Trees - Lab\02.MaxHeap\obj\Debug\netstandard2.0\02.MaxHeap.csproj.CoreCompileInputs.cache
+D:\Users\ray_m\source\Data-Structures-with-CSharp\01. Fundamentals\05. Heaps and Binary Trees - Lab\02.MaxHeap\obj\Debug\netstandard2.0\02.MaxHeap.dll
+D:\Users\ray_m\source\Data-Structures-with-CSharp\01. Fundamentals\05. Heaps and Binary Trees - Lab\02.MaxHeap\obj\Debug\netstandard2.0\02.MaxHeap.pdb

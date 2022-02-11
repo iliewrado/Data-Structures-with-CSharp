@@ -1,0 +1,10 @@
+D:\Users\ray_m\source\Data-Structures-with-CSharp\01. Fundamentals\05. Heaps and Binary Trees - Lab\01.BinaryTree\bin\Debug\netstandard2.0\01.BinaryTree.deps.json
+D:\Users\ray_m\source\Data-Structures-with-CSharp\01. Fundamentals\05. Heaps and Binary Trees - Lab\01.BinaryTree\bin\Debug\netstandard2.0\01.BinaryTree.dll
+D:\Users\ray_m\source\Data-Structures-with-CSharp\01. Fundamentals\05. Heaps and Binary Trees - Lab\01.BinaryTree\bin\Debug\netstandard2.0\01.BinaryTree.pdb
+D:\Users\ray_m\source\Data-Structures-with-CSharp\01. Fundamentals\05. Heaps and Binary Trees - Lab\01.BinaryTree\obj\Debug\netstandard2.0\01.BinaryTree.csproj.AssemblyReference.cache
+D:\Users\ray_m\source\Data-Structures-with-CSharp\01. Fundamentals\05. Heaps and Binary Trees - Lab\01.BinaryTree\obj\Debug\netstandard2.0\01.BinaryTree.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ray_m\source\Data-Structures-with-CSharp\01. Fundamentals\05. Heaps and Binary Trees - Lab\01.BinaryTree\obj\Debug\netstandard2.0\01.BinaryTree.AssemblyInfoInputs.cache
+D:\Users\ray_m\source\Data-Structures-with-CSharp\01. Fundamentals\05. Heaps and Binary Trees - Lab\01.BinaryTree\obj\Debug\netstandard2.0\01.BinaryTree.AssemblyInfo.cs
+D:\Users\ray_m\source\Data-Structures-with-CSharp\01. Fundamentals\05. Heaps and Binary Trees - Lab\01.BinaryTree\obj\Debug\netstandard2.0\01.BinaryTree.csproj.CoreCompileInputs.cache
+D:\Users\ray_m\source\Data-Structures-with-CSharp\01. Fundamentals\05. Heaps and Binary Trees - Lab\01.BinaryTree\obj\Debug\netstandard2.0\01.BinaryTree.dll
+D:\Users\ray_m\source\Data-Structures-with-CSharp\01. Fundamentals\05. Heaps and Binary Trees - Lab\01.BinaryTree\obj\Debug\netstandard2.0\01.BinaryTree.pdb

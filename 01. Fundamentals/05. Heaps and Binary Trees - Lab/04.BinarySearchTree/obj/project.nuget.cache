@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "gcCUImfhxEuCUJX8F60Tef5EhMwWQB/c7Ja3WKDzZD1VFFldIR9QImitkKnB2SQ5c8NMg6LyMIkdmkFqZuF/GQ==",
+  "success": true,
+  "projectFilePath": "D:\\Users\\ray_m\\source\\Data-Structures-with-CSharp\\01. Fundamentals\\05. Heaps and Binary Trees - Lab\\04.BinarySearchTree\\04.BinarySearchTree.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ray_m\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\ray_m\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
