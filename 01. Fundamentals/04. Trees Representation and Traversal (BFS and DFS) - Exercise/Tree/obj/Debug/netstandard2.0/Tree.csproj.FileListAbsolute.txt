@@ -1,0 +1,10 @@
+D:\Users\ray_m\source\Data-Structures-with-CSharp\01. Fundamentals\04. Trees Representation and Traversal (BFS and DFS) - Exercise\Tree\bin\Debug\netstandard2.0\Tree.deps.json
+D:\Users\ray_m\source\Data-Structures-with-CSharp\01. Fundamentals\04. Trees Representation and Traversal (BFS and DFS) - Exercise\Tree\bin\Debug\netstandard2.0\Tree.dll
+D:\Users\ray_m\source\Data-Structures-with-CSharp\01. Fundamentals\04. Trees Representation and Traversal (BFS and DFS) - Exercise\Tree\bin\Debug\netstandard2.0\Tree.pdb
+D:\Users\ray_m\source\Data-Structures-with-CSharp\01. Fundamentals\04. Trees Representation and Traversal (BFS and DFS) - Exercise\Tree\obj\Debug\netstandard2.0\Tree.csproj.AssemblyReference.cache
+D:\Users\ray_m\source\Data-Structures-with-CSharp\01. Fundamentals\04. Trees Representation and Traversal (BFS and DFS) - Exercise\Tree\obj\Debug\netstandard2.0\Tree.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ray_m\source\Data-Structures-with-CSharp\01. Fundamentals\04. Trees Representation and Traversal (BFS and DFS) - Exercise\Tree\obj\Debug\netstandard2.0\Tree.AssemblyInfoInputs.cache
+D:\Users\ray_m\source\Data-Structures-with-CSharp\01. Fundamentals\04. Trees Representation and Traversal (BFS and DFS) - Exercise\Tree\obj\Debug\netstandard2.0\Tree.AssemblyInfo.cs
+D:\Users\ray_m\source\Data-Structures-with-CSharp\01. Fundamentals\04. Trees Representation and Traversal (BFS and DFS) - Exercise\Tree\obj\Debug\netstandard2.0\Tree.csproj.CoreCompileInputs.cache
+D:\Users\ray_m\source\Data-Structures-with-CSharp\01. Fundamentals\04. Trees Representation and Traversal (BFS and DFS) - Exercise\Tree\obj\Debug\netstandard2.0\Tree.dll
+D:\Users\ray_m\source\Data-Structures-with-CSharp\01. Fundamentals\04. Trees Representation and Traversal (BFS and DFS) - Exercise\Tree\obj\Debug\netstandard2.0\Tree.pdb
