@@ -1,0 +1,10 @@
+D:\Users\ray_m\source\Data-Structures-with-CSharp\01. Fundamentals\06. Heaps and Binary Trees - Exercise\01.BSTOperations\bin\Debug\netstandard2.0\01.BSTOperations.deps.json
+D:\Users\ray_m\source\Data-Structures-with-CSharp\01. Fundamentals\06. Heaps and Binary Trees - Exercise\01.BSTOperations\bin\Debug\netstandard2.0\01.BSTOperations.dll
+D:\Users\ray_m\source\Data-Structures-with-CSharp\01. Fundamentals\06. Heaps and Binary Trees - Exercise\01.BSTOperations\bin\Debug\netstandard2.0\01.BSTOperations.pdb
+D:\Users\ray_m\source\Data-Structures-with-CSharp\01. Fundamentals\06. Heaps and Binary Trees - Exercise\01.BSTOperations\obj\Debug\netstandard2.0\01.BSTOperations.csproj.AssemblyReference.cache
+D:\Users\ray_m\source\Data-Structures-with-CSharp\01. Fundamentals\06. Heaps and Binary Trees - Exercise\01.BSTOperations\obj\Debug\netstandard2.0\01.BSTOperations.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ray_m\source\Data-Structures-with-CSharp\01. Fundamentals\06. Heaps and Binary Trees - Exercise\01.BSTOperations\obj\Debug\netstandard2.0\01.BSTOperations.AssemblyInfoInputs.cache
+D:\Users\ray_m\source\Data-Structures-with-CSharp\01. Fundamentals\06. Heaps and Binary Trees - Exercise\01.BSTOperations\obj\Debug\netstandard2.0\01.BSTOperations.AssemblyInfo.cs
+D:\Users\ray_m\source\Data-Structures-with-CSharp\01. Fundamentals\06. Heaps and Binary Trees - Exercise\01.BSTOperations\obj\Debug\netstandard2.0\01.BSTOperations.csproj.CoreCompileInputs.cache
+D:\Users\ray_m\source\Data-Structures-with-CSharp\01. Fundamentals\06. Heaps and Binary Trees - Exercise\01.BSTOperations\obj\Debug\netstandard2.0\01.BSTOperations.dll
+D:\Users\ray_m\source\Data-Structures-with-CSharp\01. Fundamentals\06. Heaps and Binary Trees - Exercise\01.BSTOperations\obj\Debug\netstandard2.0\01.BSTOperations.pdb

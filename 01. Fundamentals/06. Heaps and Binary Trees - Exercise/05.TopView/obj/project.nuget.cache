@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "j8XgNaoXgThMOFGH7oleF+WXJbYwoCD6qnFgEQ9WlQGMrUL97DrZBfjf3gZJ9AA4Z+ktjoM19vR6CeZkf3i/Nw==",
+  "success": true,
+  "projectFilePath": "D:\\Users\\ray_m\\source\\Data-Structures-with-CSharp\\01. Fundamentals\\06. Heaps and Binary Trees - Exercise\\05.TopView\\05.TopView.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ray_m\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\ray_m\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

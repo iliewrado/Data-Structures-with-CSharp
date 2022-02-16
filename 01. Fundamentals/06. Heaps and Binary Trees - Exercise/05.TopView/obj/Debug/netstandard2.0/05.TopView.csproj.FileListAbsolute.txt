@@ -1,0 +1,10 @@
+D:\Users\ray_m\source\Data-Structures-with-CSharp\01. Fundamentals\06. Heaps and Binary Trees - Exercise\05.TopView\bin\Debug\netstandard2.0\05.TopView.deps.json
+D:\Users\ray_m\source\Data-Structures-with-CSharp\01. Fundamentals\06. Heaps and Binary Trees - Exercise\05.TopView\bin\Debug\netstandard2.0\05.TopView.dll
+D:\Users\ray_m\source\Data-Structures-with-CSharp\01. Fundamentals\06. Heaps and Binary Trees - Exercise\05.TopView\bin\Debug\netstandard2.0\05.TopView.pdb
+D:\Users\ray_m\source\Data-Structures-with-CSharp\01. Fundamentals\06. Heaps and Binary Trees - Exercise\05.TopView\obj\Debug\netstandard2.0\05.TopView.csproj.AssemblyReference.cache
+D:\Users\ray_m\source\Data-Structures-with-CSharp\01. Fundamentals\06. Heaps and Binary Trees - Exercise\05.TopView\obj\Debug\netstandard2.0\05.TopView.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ray_m\source\Data-Structures-with-CSharp\01. Fundamentals\06. Heaps and Binary Trees - Exercise\05.TopView\obj\Debug\netstandard2.0\05.TopView.AssemblyInfoInputs.cache
+D:\Users\ray_m\source\Data-Structures-with-CSharp\01. Fundamentals\06. Heaps and Binary Trees - Exercise\05.TopView\obj\Debug\netstandard2.0\05.TopView.AssemblyInfo.cs
+D:\Users\ray_m\source\Data-Structures-with-CSharp\01. Fundamentals\06. Heaps and Binary Trees - Exercise\05.TopView\obj\Debug\netstandard2.0\05.TopView.csproj.CoreCompileInputs.cache
+D:\Users\ray_m\source\Data-Structures-with-CSharp\01. Fundamentals\06. Heaps and Binary Trees - Exercise\05.TopView\obj\Debug\netstandard2.0\05.TopView.dll
+D:\Users\ray_m\source\Data-Structures-with-CSharp\01. Fundamentals\06. Heaps and Binary Trees - Exercise\05.TopView\obj\Debug\netstandard2.0\05.TopView.pdb

@@ -1,0 +1,10 @@
+D:\Users\ray_m\source\Data-Structures-with-CSharp\01. Fundamentals\06. Heaps and Binary Trees - Exercise\02.LowestCommonAncestor\bin\Debug\netstandard2.0\02.LowestCommonAncestor.deps.json
+D:\Users\ray_m\source\Data-Structures-with-CSharp\01. Fundamentals\06. Heaps and Binary Trees - Exercise\02.LowestCommonAncestor\bin\Debug\netstandard2.0\02.LowestCommonAncestor.dll
+D:\Users\ray_m\source\Data-Structures-with-CSharp\01. Fundamentals\06. Heaps and Binary Trees - Exercise\02.LowestCommonAncestor\bin\Debug\netstandard2.0\02.LowestCommonAncestor.pdb
+D:\Users\ray_m\source\Data-Structures-with-CSharp\01. Fundamentals\06. Heaps and Binary Trees - Exercise\02.LowestCommonAncestor\obj\Debug\netstandard2.0\02.LowestCommonAncestor.csproj.AssemblyReference.cache
+D:\Users\ray_m\source\Data-Structures-with-CSharp\01. Fundamentals\06. Heaps and Binary Trees - Exercise\02.LowestCommonAncestor\obj\Debug\netstandard2.0\02.LowestCommonAncestor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ray_m\source\Data-Structures-with-CSharp\01. Fundamentals\06. Heaps and Binary Trees - Exercise\02.LowestCommonAncestor\obj\Debug\netstandard2.0\02.LowestCommonAncestor.AssemblyInfoInputs.cache
+D:\Users\ray_m\source\Data-Structures-with-CSharp\01. Fundamentals\06. Heaps and Binary Trees - Exercise\02.LowestCommonAncestor\obj\Debug\netstandard2.0\02.LowestCommonAncestor.AssemblyInfo.cs
+D:\Users\ray_m\source\Data-Structures-with-CSharp\01. Fundamentals\06. Heaps and Binary Trees - Exercise\02.LowestCommonAncestor\obj\Debug\netstandard2.0\02.LowestCommonAncestor.csproj.CoreCompileInputs.cache
+D:\Users\ray_m\source\Data-Structures-with-CSharp\01. Fundamentals\06. Heaps and Binary Trees - Exercise\02.LowestCommonAncestor\obj\Debug\netstandard2.0\02.LowestCommonAncestor.dll
+D:\Users\ray_m\source\Data-Structures-with-CSharp\01. Fundamentals\06. Heaps and Binary Trees - Exercise\02.LowestCommonAncestor\obj\Debug\netstandard2.0\02.LowestCommonAncestor.pdb
