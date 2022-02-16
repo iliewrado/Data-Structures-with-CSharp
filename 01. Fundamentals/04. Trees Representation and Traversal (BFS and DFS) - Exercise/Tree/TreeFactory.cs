@@ -21,15 +21,18 @@
                     .ToArray();
 
                 this.CreateNodeByKey(lineArgs[0]);
-                this.CreateNodeByKey(lineArgs[1]);
-
-                if (!this.nodesBykeys.ContainsKey(lineArgs[1]))
+                if (lineArgs.Length > 1)
                 {
-                    Tree<int> node = this.CreateNodeByKey(lineArgs[1]);
-                    this.nodesBykeys.Add(lineArgs[1], node);
-                }
+                    this.CreateNodeByKey(lineArgs[1]);
 
-                this.AddEdge(lineArgs[0], lineArgs[1]);
+                    if (!this.nodesBykeys.ContainsKey(lineArgs[1]))
+                    {
+                        Tree<int> node = this.CreateNodeByKey(lineArgs[1]);
+                        this.nodesBykeys.Add(lineArgs[1], node);
+                    }
+                 
+                    this.AddEdge(lineArgs[0], lineArgs[1]);
+                }    
             }
 
             return this.GetRoot();

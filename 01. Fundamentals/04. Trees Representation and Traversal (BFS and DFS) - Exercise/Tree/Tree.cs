@@ -64,13 +64,7 @@
         {
             List<T> result = new List<T>();
 
-            foreach (var child in _children)
-            {
-                if (child.Parent != null && child._children.Count > 0)
-                {
-                    result.Add(child.Key);
-                }
-            }
+            GetMiddleKeys(this, result);
 
             return result.OrderBy(x => x).ToList();
         }
@@ -117,6 +111,18 @@
             }
 
             return result;
+        }
+
+        private void GetMiddleKeys(Tree<T> node, List<T> trees)
+        {
+            foreach (var child in node._children)
+            {
+                if (child._children.Count > 0)
+                {
+                    trees.Add(child.Key);
+                    GetMiddleKeys(child, trees);
+                }
+            }
         }
 
         private Tree<T> DeepestNode()
