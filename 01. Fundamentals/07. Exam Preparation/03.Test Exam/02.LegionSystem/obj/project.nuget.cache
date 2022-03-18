@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "GdTNVH4GSS2LNG0mOaREKJ9uVqRbVsEFfcNKViB3XsRytzvvu6t7n3ThMn9MciKTVzyFJR3mTtKmOHmZDfKbBg==",
+  "success": true,
+  "projectFilePath": "D:\\Users\\ray_m\\source\\Data-Structures-with-CSharp\\01. Fundamentals\\07. Exam Preparation\\03.Test Exam\\02.LegionSystem\\02.LegionSystem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ray_m\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\ray_m\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

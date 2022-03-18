@@ -1,0 +1,10 @@
+D:\Users\ray_m\source\Data-Structures-with-CSharp\01. Fundamentals\07. Exam Preparation\03.Test Exam\02.LegionSystem\bin\Debug\netstandard2.0\02.LegionSystem.deps.json
+D:\Users\ray_m\source\Data-Structures-with-CSharp\01. Fundamentals\07. Exam Preparation\03.Test Exam\02.LegionSystem\bin\Debug\netstandard2.0\02.LegionSystem.dll
+D:\Users\ray_m\source\Data-Structures-with-CSharp\01. Fundamentals\07. Exam Preparation\03.Test Exam\02.LegionSystem\bin\Debug\netstandard2.0\02.LegionSystem.pdb
+D:\Users\ray_m\source\Data-Structures-with-CSharp\01. Fundamentals\07. Exam Preparation\03.Test Exam\02.LegionSystem\obj\Debug\netstandard2.0\02.LegionSystem.csproj.AssemblyReference.cache
+D:\Users\ray_m\source\Data-Structures-with-CSharp\01. Fundamentals\07. Exam Preparation\03.Test Exam\02.LegionSystem\obj\Debug\netstandard2.0\02.LegionSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ray_m\source\Data-Structures-with-CSharp\01. Fundamentals\07. Exam Preparation\03.Test Exam\02.LegionSystem\obj\Debug\netstandard2.0\02.LegionSystem.AssemblyInfoInputs.cache
+D:\Users\ray_m\source\Data-Structures-with-CSharp\01. Fundamentals\07. Exam Preparation\03.Test Exam\02.LegionSystem\obj\Debug\netstandard2.0\02.LegionSystem.AssemblyInfo.cs
+D:\Users\ray_m\source\Data-Structures-with-CSharp\01. Fundamentals\07. Exam Preparation\03.Test Exam\02.LegionSystem\obj\Debug\netstandard2.0\02.LegionSystem.csproj.CoreCompileInputs.cache
+D:\Users\ray_m\source\Data-Structures-with-CSharp\01. Fundamentals\07. Exam Preparation\03.Test Exam\02.LegionSystem\obj\Debug\netstandard2.0\02.LegionSystem.dll
+D:\Users\ray_m\source\Data-Structures-with-CSharp\01. Fundamentals\07. Exam Preparation\03.Test Exam\02.LegionSystem\obj\Debug\netstandard2.0\02.LegionSystem.pdb

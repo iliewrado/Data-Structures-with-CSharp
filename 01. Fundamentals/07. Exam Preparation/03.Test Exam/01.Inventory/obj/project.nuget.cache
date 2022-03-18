@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "X3rLb/WHKLn1LLp/EdGzmzmFC/q1RPCeH1Xifq8OHfD+PGV0kiPUztWaQPhuUl/4TN3YS0fytb92gFCgwW4bQw==",
+  "success": true,
+  "projectFilePath": "D:\\Users\\ray_m\\source\\Data-Structures-with-CSharp\\01. Fundamentals\\07. Exam Preparation\\03.Test Exam\\01.Inventory\\01.Inventory.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ray_m\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\ray_m\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

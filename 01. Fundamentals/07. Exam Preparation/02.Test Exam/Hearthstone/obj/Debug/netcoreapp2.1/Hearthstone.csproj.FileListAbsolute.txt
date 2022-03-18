@@ -1,0 +1,13 @@
+D:\Users\ray_m\source\Data-Structures-with-CSharp\01. Fundamentals\07. Exam Preparation\02.Test Exam\Hearthstone\bin\Debug\netcoreapp2.1\Hearthstone.deps.json
+D:\Users\ray_m\source\Data-Structures-with-CSharp\01. Fundamentals\07. Exam Preparation\02.Test Exam\Hearthstone\bin\Debug\netcoreapp2.1\Hearthstone.runtimeconfig.json
+D:\Users\ray_m\source\Data-Structures-with-CSharp\01. Fundamentals\07. Exam Preparation\02.Test Exam\Hearthstone\bin\Debug\netcoreapp2.1\Hearthstone.runtimeconfig.dev.json
+D:\Users\ray_m\source\Data-Structures-with-CSharp\01. Fundamentals\07. Exam Preparation\02.Test Exam\Hearthstone\bin\Debug\netcoreapp2.1\Hearthstone.dll
+D:\Users\ray_m\source\Data-Structures-with-CSharp\01. Fundamentals\07. Exam Preparation\02.Test Exam\Hearthstone\bin\Debug\netcoreapp2.1\Hearthstone.pdb
+D:\Users\ray_m\source\Data-Structures-with-CSharp\01. Fundamentals\07. Exam Preparation\02.Test Exam\Hearthstone\obj\Debug\netcoreapp2.1\Hearthstone.csproj.AssemblyReference.cache
+D:\Users\ray_m\source\Data-Structures-with-CSharp\01. Fundamentals\07. Exam Preparation\02.Test Exam\Hearthstone\obj\Debug\netcoreapp2.1\Hearthstone.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ray_m\source\Data-Structures-with-CSharp\01. Fundamentals\07. Exam Preparation\02.Test Exam\Hearthstone\obj\Debug\netcoreapp2.1\Hearthstone.AssemblyInfoInputs.cache
+D:\Users\ray_m\source\Data-Structures-with-CSharp\01. Fundamentals\07. Exam Preparation\02.Test Exam\Hearthstone\obj\Debug\netcoreapp2.1\Hearthstone.AssemblyInfo.cs
+D:\Users\ray_m\source\Data-Structures-with-CSharp\01. Fundamentals\07. Exam Preparation\02.Test Exam\Hearthstone\obj\Debug\netcoreapp2.1\Hearthstone.csproj.CoreCompileInputs.cache
+D:\Users\ray_m\source\Data-Structures-with-CSharp\01. Fundamentals\07. Exam Preparation\02.Test Exam\Hearthstone\obj\Debug\netcoreapp2.1\Hearthstone.dll
+D:\Users\ray_m\source\Data-Structures-with-CSharp\01. Fundamentals\07. Exam Preparation\02.Test Exam\Hearthstone\obj\Debug\netcoreapp2.1\Hearthstone.pdb
+D:\Users\ray_m\source\Data-Structures-with-CSharp\01. Fundamentals\07. Exam Preparation\02.Test Exam\Hearthstone\obj\Debug\netcoreapp2.1\Hearthstone.genruntimeconfig.cache

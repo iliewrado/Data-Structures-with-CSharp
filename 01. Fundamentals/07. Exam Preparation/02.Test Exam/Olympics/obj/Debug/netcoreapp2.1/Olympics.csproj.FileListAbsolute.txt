@@ -1,0 +1,13 @@
+D:\Users\ray_m\source\Data-Structures-with-CSharp\01. Fundamentals\07. Exam Preparation\02.Test Exam\Olympics\bin\Debug\netcoreapp2.1\Olympics.deps.json
+D:\Users\ray_m\source\Data-Structures-with-CSharp\01. Fundamentals\07. Exam Preparation\02.Test Exam\Olympics\bin\Debug\netcoreapp2.1\Olympics.runtimeconfig.json
+D:\Users\ray_m\source\Data-Structures-with-CSharp\01. Fundamentals\07. Exam Preparation\02.Test Exam\Olympics\bin\Debug\netcoreapp2.1\Olympics.runtimeconfig.dev.json
+D:\Users\ray_m\source\Data-Structures-with-CSharp\01. Fundamentals\07. Exam Preparation\02.Test Exam\Olympics\bin\Debug\netcoreapp2.1\Olympics.dll
+D:\Users\ray_m\source\Data-Structures-with-CSharp\01. Fundamentals\07. Exam Preparation\02.Test Exam\Olympics\bin\Debug\netcoreapp2.1\Olympics.pdb
+D:\Users\ray_m\source\Data-Structures-with-CSharp\01. Fundamentals\07. Exam Preparation\02.Test Exam\Olympics\obj\Debug\netcoreapp2.1\Olympics.csproj.AssemblyReference.cache
+D:\Users\ray_m\source\Data-Structures-with-CSharp\01. Fundamentals\07. Exam Preparation\02.Test Exam\Olympics\obj\Debug\netcoreapp2.1\Olympics.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ray_m\source\Data-Structures-with-CSharp\01. Fundamentals\07. Exam Preparation\02.Test Exam\Olympics\obj\Debug\netcoreapp2.1\Olympics.AssemblyInfoInputs.cache
+D:\Users\ray_m\source\Data-Structures-with-CSharp\01. Fundamentals\07. Exam Preparation\02.Test Exam\Olympics\obj\Debug\netcoreapp2.1\Olympics.AssemblyInfo.cs
+D:\Users\ray_m\source\Data-Structures-with-CSharp\01. Fundamentals\07. Exam Preparation\02.Test Exam\Olympics\obj\Debug\netcoreapp2.1\Olympics.csproj.CoreCompileInputs.cache
+D:\Users\ray_m\source\Data-Structures-with-CSharp\01. Fundamentals\07. Exam Preparation\02.Test Exam\Olympics\obj\Debug\netcoreapp2.1\Olympics.dll
+D:\Users\ray_m\source\Data-Structures-with-CSharp\01. Fundamentals\07. Exam Preparation\02.Test Exam\Olympics\obj\Debug\netcoreapp2.1\Olympics.pdb
+D:\Users\ray_m\source\Data-Structures-with-CSharp\01. Fundamentals\07. Exam Preparation\02.Test Exam\Olympics\obj\Debug\netcoreapp2.1\Olympics.genruntimeconfig.cache

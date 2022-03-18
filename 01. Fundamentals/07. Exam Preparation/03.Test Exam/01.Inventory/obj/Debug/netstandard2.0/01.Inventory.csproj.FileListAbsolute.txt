@@ -1,0 +1,10 @@
+D:\Users\ray_m\source\Data-Structures-with-CSharp\01. Fundamentals\07. Exam Preparation\03.Test Exam\01.Inventory\bin\Debug\netstandard2.0\01.Inventory.deps.json
+D:\Users\ray_m\source\Data-Structures-with-CSharp\01. Fundamentals\07. Exam Preparation\03.Test Exam\01.Inventory\bin\Debug\netstandard2.0\01.Inventory.dll
+D:\Users\ray_m\source\Data-Structures-with-CSharp\01. Fundamentals\07. Exam Preparation\03.Test Exam\01.Inventory\bin\Debug\netstandard2.0\01.Inventory.pdb
+D:\Users\ray_m\source\Data-Structures-with-CSharp\01. Fundamentals\07. Exam Preparation\03.Test Exam\01.Inventory\obj\Debug\netstandard2.0\01.Inventory.csproj.AssemblyReference.cache
+D:\Users\ray_m\source\Data-Structures-with-CSharp\01. Fundamentals\07. Exam Preparation\03.Test Exam\01.Inventory\obj\Debug\netstandard2.0\01.Inventory.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ray_m\source\Data-Structures-with-CSharp\01. Fundamentals\07. Exam Preparation\03.Test Exam\01.Inventory\obj\Debug\netstandard2.0\01.Inventory.AssemblyInfoInputs.cache
+D:\Users\ray_m\source\Data-Structures-with-CSharp\01. Fundamentals\07. Exam Preparation\03.Test Exam\01.Inventory\obj\Debug\netstandard2.0\01.Inventory.AssemblyInfo.cs
+D:\Users\ray_m\source\Data-Structures-with-CSharp\01. Fundamentals\07. Exam Preparation\03.Test Exam\01.Inventory\obj\Debug\netstandard2.0\01.Inventory.csproj.CoreCompileInputs.cache
+D:\Users\ray_m\source\Data-Structures-with-CSharp\01. Fundamentals\07. Exam Preparation\03.Test Exam\01.Inventory\obj\Debug\netstandard2.0\01.Inventory.dll
+D:\Users\ray_m\source\Data-Structures-with-CSharp\01. Fundamentals\07. Exam Preparation\03.Test Exam\01.Inventory\obj\Debug\netstandard2.0\01.Inventory.pdb
