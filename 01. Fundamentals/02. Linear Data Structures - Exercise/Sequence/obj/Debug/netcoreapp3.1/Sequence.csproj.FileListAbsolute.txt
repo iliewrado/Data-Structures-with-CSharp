@@ -1,0 +1,14 @@
+D:\Users\ray_m\source\Data-Structures-with-CSharp\01. Fundamentals\02. Linear Data Structures - Exercise\Sequence\bin\Debug\netcoreapp3.1\Sequence.exe
+D:\Users\ray_m\source\Data-Structures-with-CSharp\01. Fundamentals\02. Linear Data Structures - Exercise\Sequence\bin\Debug\netcoreapp3.1\Sequence.deps.json
+D:\Users\ray_m\source\Data-Structures-with-CSharp\01. Fundamentals\02. Linear Data Structures - Exercise\Sequence\bin\Debug\netcoreapp3.1\Sequence.runtimeconfig.json
+D:\Users\ray_m\source\Data-Structures-with-CSharp\01. Fundamentals\02. Linear Data Structures - Exercise\Sequence\bin\Debug\netcoreapp3.1\Sequence.runtimeconfig.dev.json
+D:\Users\ray_m\source\Data-Structures-with-CSharp\01. Fundamentals\02. Linear Data Structures - Exercise\Sequence\bin\Debug\netcoreapp3.1\Sequence.dll
+D:\Users\ray_m\source\Data-Structures-with-CSharp\01. Fundamentals\02. Linear Data Structures - Exercise\Sequence\bin\Debug\netcoreapp3.1\Sequence.pdb
+D:\Users\ray_m\source\Data-Structures-with-CSharp\01. Fundamentals\02. Linear Data Structures - Exercise\Sequence\obj\Debug\netcoreapp3.1\Sequence.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ray_m\source\Data-Structures-with-CSharp\01. Fundamentals\02. Linear Data Structures - Exercise\Sequence\obj\Debug\netcoreapp3.1\Sequence.AssemblyInfoInputs.cache
+D:\Users\ray_m\source\Data-Structures-with-CSharp\01. Fundamentals\02. Linear Data Structures - Exercise\Sequence\obj\Debug\netcoreapp3.1\Sequence.AssemblyInfo.cs
+D:\Users\ray_m\source\Data-Structures-with-CSharp\01. Fundamentals\02. Linear Data Structures - Exercise\Sequence\obj\Debug\netcoreapp3.1\Sequence.csproj.CoreCompileInputs.cache
+D:\Users\ray_m\source\Data-Structures-with-CSharp\01. Fundamentals\02. Linear Data Structures - Exercise\Sequence\obj\Debug\netcoreapp3.1\Sequence.dll
+D:\Users\ray_m\source\Data-Structures-with-CSharp\01. Fundamentals\02. Linear Data Structures - Exercise\Sequence\obj\Debug\netcoreapp3.1\Sequence.pdb
+D:\Users\ray_m\source\Data-Structures-with-CSharp\01. Fundamentals\02. Linear Data Structures - Exercise\Sequence\obj\Debug\netcoreapp3.1\Sequence.genruntimeconfig.cache
+D:\Users\ray_m\source\Data-Structures-with-CSharp\01. Fundamentals\02. Linear Data Structures - Exercise\Sequence\obj\Debug\netcoreapp3.1\Sequence.csproj.AssemblyReference.cache
