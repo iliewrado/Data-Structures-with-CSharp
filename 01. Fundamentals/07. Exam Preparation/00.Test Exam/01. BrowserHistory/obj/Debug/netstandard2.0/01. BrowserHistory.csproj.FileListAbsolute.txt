@@ -1,0 +1,10 @@
+D:\Users\ray_m\source\Data-Structures-with-CSharp\01. Fundamentals\07. Exam Preparation\00.Test Exam\01. BrowserHistory\bin\Debug\netstandard2.0\01. BrowserHistory.deps.json
+D:\Users\ray_m\source\Data-Structures-with-CSharp\01. Fundamentals\07. Exam Preparation\00.Test Exam\01. BrowserHistory\bin\Debug\netstandard2.0\01. BrowserHistory.dll
+D:\Users\ray_m\source\Data-Structures-with-CSharp\01. Fundamentals\07. Exam Preparation\00.Test Exam\01. BrowserHistory\bin\Debug\netstandard2.0\01. BrowserHistory.pdb
+D:\Users\ray_m\source\Data-Structures-with-CSharp\01. Fundamentals\07. Exam Preparation\00.Test Exam\01. BrowserHistory\obj\Debug\netstandard2.0\01. BrowserHistory.csproj.AssemblyReference.cache
+D:\Users\ray_m\source\Data-Structures-with-CSharp\01. Fundamentals\07. Exam Preparation\00.Test Exam\01. BrowserHistory\obj\Debug\netstandard2.0\01. BrowserHistory.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ray_m\source\Data-Structures-with-CSharp\01. Fundamentals\07. Exam Preparation\00.Test Exam\01. BrowserHistory\obj\Debug\netstandard2.0\01. BrowserHistory.AssemblyInfoInputs.cache
+D:\Users\ray_m\source\Data-Structures-with-CSharp\01. Fundamentals\07. Exam Preparation\00.Test Exam\01. BrowserHistory\obj\Debug\netstandard2.0\01. BrowserHistory.AssemblyInfo.cs
+D:\Users\ray_m\source\Data-Structures-with-CSharp\01. Fundamentals\07. Exam Preparation\00.Test Exam\01. BrowserHistory\obj\Debug\netstandard2.0\01. BrowserHistory.csproj.CoreCompileInputs.cache
+D:\Users\ray_m\source\Data-Structures-with-CSharp\01. Fundamentals\07. Exam Preparation\00.Test Exam\01. BrowserHistory\obj\Debug\netstandard2.0\01. BrowserHistory.dll
+D:\Users\ray_m\source\Data-Structures-with-CSharp\01. Fundamentals\07. Exam Preparation\00.Test Exam\01. BrowserHistory\obj\Debug\netstandard2.0\01. BrowserHistory.pdb

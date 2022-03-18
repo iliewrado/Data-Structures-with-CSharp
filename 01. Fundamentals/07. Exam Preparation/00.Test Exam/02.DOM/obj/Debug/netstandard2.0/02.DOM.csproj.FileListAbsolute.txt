@@ -1,0 +1,10 @@
+D:\Users\ray_m\source\Data-Structures-with-CSharp\01. Fundamentals\07. Exam Preparation\00.Test Exam\02.DOM\bin\Debug\netstandard2.0\02.DOM.deps.json
+D:\Users\ray_m\source\Data-Structures-with-CSharp\01. Fundamentals\07. Exam Preparation\00.Test Exam\02.DOM\bin\Debug\netstandard2.0\02.DOM.dll
+D:\Users\ray_m\source\Data-Structures-with-CSharp\01. Fundamentals\07. Exam Preparation\00.Test Exam\02.DOM\bin\Debug\netstandard2.0\02.DOM.pdb
+D:\Users\ray_m\source\Data-Structures-with-CSharp\01. Fundamentals\07. Exam Preparation\00.Test Exam\02.DOM\obj\Debug\netstandard2.0\02.DOM.csproj.AssemblyReference.cache
+D:\Users\ray_m\source\Data-Structures-with-CSharp\01. Fundamentals\07. Exam Preparation\00.Test Exam\02.DOM\obj\Debug\netstandard2.0\02.DOM.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ray_m\source\Data-Structures-with-CSharp\01. Fundamentals\07. Exam Preparation\00.Test Exam\02.DOM\obj\Debug\netstandard2.0\02.DOM.AssemblyInfoInputs.cache
+D:\Users\ray_m\source\Data-Structures-with-CSharp\01. Fundamentals\07. Exam Preparation\00.Test Exam\02.DOM\obj\Debug\netstandard2.0\02.DOM.AssemblyInfo.cs
+D:\Users\ray_m\source\Data-Structures-with-CSharp\01. Fundamentals\07. Exam Preparation\00.Test Exam\02.DOM\obj\Debug\netstandard2.0\02.DOM.csproj.CoreCompileInputs.cache
+D:\Users\ray_m\source\Data-Structures-with-CSharp\01. Fundamentals\07. Exam Preparation\00.Test Exam\02.DOM\obj\Debug\netstandard2.0\02.DOM.dll
+D:\Users\ray_m\source\Data-Structures-with-CSharp\01. Fundamentals\07. Exam Preparation\00.Test Exam\02.DOM\obj\Debug\netstandard2.0\02.DOM.pdb
