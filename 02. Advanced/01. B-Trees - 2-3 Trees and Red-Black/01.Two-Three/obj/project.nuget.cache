@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "m5YidNzYo6kgIILPVPDj3MlV/WFI4uf3lsYEpgkrg3a2NJF5u+WZPNeOoMMPfun5PsX2oMJ8A1g/6hvR1+PU1w==",
+  "success": true,
+  "projectFilePath": "D:\\Users\\ray_m\\source\\Data-Structures-with-CSharp\\02. Advanced\\01. B-Trees - 2-3 Trees and Red-Black\\01.Two-Three\\01.Two-Three.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ray_m\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\ray_m\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
