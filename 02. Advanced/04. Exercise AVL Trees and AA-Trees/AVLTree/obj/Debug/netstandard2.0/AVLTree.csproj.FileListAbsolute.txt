@@ -1,0 +1,40 @@
+/Users/ssheytanov/Documents/Svn/DS/Feb-2022/2.DS-Advanced/04. AVL-Trees-and-AA-Trees-Exercise/04. AVL-Skeleton/AVLTree/bin/Debug/netstandard2.0/AVLTree.deps.json
+/Users/ssheytanov/Documents/Svn/DS/Feb-2022/2.DS-Advanced/04. AVL-Trees-and-AA-Trees-Exercise/04. AVL-Skeleton/AVLTree/bin/Debug/netstandard2.0/AVLTree.dll
+/Users/ssheytanov/Documents/Svn/DS/Feb-2022/2.DS-Advanced/04. AVL-Trees-and-AA-Trees-Exercise/04. AVL-Skeleton/AVLTree/bin/Debug/netstandard2.0/AVLTree.pdb
+/Users/ssheytanov/Documents/Svn/DS/Feb-2022/2.DS-Advanced/04. AVL-Trees-and-AA-Trees-Exercise/04. AVL-Skeleton/AVLTree/obj/Debug/netstandard2.0/AVLTree.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ssheytanov/Documents/Svn/DS/Feb-2022/2.DS-Advanced/04. AVL-Trees-and-AA-Trees-Exercise/04. AVL-Skeleton/AVLTree/obj/Debug/netstandard2.0/AVLTree.AssemblyInfoInputs.cache
+/Users/ssheytanov/Documents/Svn/DS/Feb-2022/2.DS-Advanced/04. AVL-Trees-and-AA-Trees-Exercise/04. AVL-Skeleton/AVLTree/obj/Debug/netstandard2.0/AVLTree.AssemblyInfo.cs
+/Users/ssheytanov/Documents/Svn/DS/Feb-2022/2.DS-Advanced/04. AVL-Trees-and-AA-Trees-Exercise/04. AVL-Skeleton/AVLTree/obj/Debug/netstandard2.0/AVLTree.csproj.CoreCompileInputs.cache
+/Users/ssheytanov/Documents/Svn/DS/Feb-2022/2.DS-Advanced/04. AVL-Trees-and-AA-Trees-Exercise/04. AVL-Skeleton/AVLTree/obj/Debug/netstandard2.0/AVLTree.dll
+/Users/ssheytanov/Documents/Svn/DS/Feb-2022/2.DS-Advanced/04. AVL-Trees-and-AA-Trees-Exercise/04. AVL-Skeleton/AVLTree/obj/Debug/netstandard2.0/AVLTree.pdb
+/Users/ssheytanov/Documents/Svn/DS/Feb-2022/2.DS-Advanced/04. AVL-Trees-and-AA-Trees-Exercise/04. AVL-Skeleton/AVLTree/obj/Debug/netstandard2.0/AVLTree.csproj.AssemblyReference.cache
+/Users/ssheytanov/Documents/Svn/DS/Feb-2022/2.DS-Advanced/04. AVL-Trees-and-AA-Trees-Exercise/04. AVL-Trees-and-AA-Trees-Exercise-Solution/AVLTree/bin/Debug/netstandard2.0/AVLTree.deps.json
+/Users/ssheytanov/Documents/Svn/DS/Feb-2022/2.DS-Advanced/04. AVL-Trees-and-AA-Trees-Exercise/04. AVL-Trees-and-AA-Trees-Exercise-Solution/AVLTree/bin/Debug/netstandard2.0/AVLTree.dll
+/Users/ssheytanov/Documents/Svn/DS/Feb-2022/2.DS-Advanced/04. AVL-Trees-and-AA-Trees-Exercise/04. AVL-Trees-and-AA-Trees-Exercise-Solution/AVLTree/bin/Debug/netstandard2.0/AVLTree.pdb
+/Users/ssheytanov/Documents/Svn/DS/Feb-2022/2.DS-Advanced/04. AVL-Trees-and-AA-Trees-Exercise/04. AVL-Trees-and-AA-Trees-Exercise-Solution/AVLTree/obj/Debug/netstandard2.0/AVLTree.csproj.AssemblyReference.cache
+/Users/ssheytanov/Documents/Svn/DS/Feb-2022/2.DS-Advanced/04. AVL-Trees-and-AA-Trees-Exercise/04. AVL-Trees-and-AA-Trees-Exercise-Solution/AVLTree/obj/Debug/netstandard2.0/AVLTree.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ssheytanov/Documents/Svn/DS/Feb-2022/2.DS-Advanced/04. AVL-Trees-and-AA-Trees-Exercise/04. AVL-Trees-and-AA-Trees-Exercise-Solution/AVLTree/obj/Debug/netstandard2.0/AVLTree.AssemblyInfoInputs.cache
+/Users/ssheytanov/Documents/Svn/DS/Feb-2022/2.DS-Advanced/04. AVL-Trees-and-AA-Trees-Exercise/04. AVL-Trees-and-AA-Trees-Exercise-Solution/AVLTree/obj/Debug/netstandard2.0/AVLTree.AssemblyInfo.cs
+/Users/ssheytanov/Documents/Svn/DS/Feb-2022/2.DS-Advanced/04. AVL-Trees-and-AA-Trees-Exercise/04. AVL-Trees-and-AA-Trees-Exercise-Solution/AVLTree/obj/Debug/netstandard2.0/AVLTree.csproj.CoreCompileInputs.cache
+/Users/ssheytanov/Documents/Svn/DS/Feb-2022/2.DS-Advanced/04. AVL-Trees-and-AA-Trees-Exercise/04. AVL-Trees-and-AA-Trees-Exercise-Solution/AVLTree/obj/Debug/netstandard2.0/AVLTree.dll
+/Users/ssheytanov/Documents/Svn/DS/Feb-2022/2.DS-Advanced/04. AVL-Trees-and-AA-Trees-Exercise/04. AVL-Trees-and-AA-Trees-Exercise-Solution/AVLTree/obj/Debug/netstandard2.0/AVLTree.pdb
+/Users/ssheytanov/Documents/Svn/DS/Feb-2022/2.DS-Advanced/04. AVL-Trees-and-AA-Trees-Exercise/04. AVL-Trees-and-AA-Trees-Exercise-Skeleton/AVLTree/bin/Debug/netstandard2.0/AVLTree.deps.json
+/Users/ssheytanov/Documents/Svn/DS/Feb-2022/2.DS-Advanced/04. AVL-Trees-and-AA-Trees-Exercise/04. AVL-Trees-and-AA-Trees-Exercise-Skeleton/AVLTree/bin/Debug/netstandard2.0/AVLTree.dll
+/Users/ssheytanov/Documents/Svn/DS/Feb-2022/2.DS-Advanced/04. AVL-Trees-and-AA-Trees-Exercise/04. AVL-Trees-and-AA-Trees-Exercise-Skeleton/AVLTree/bin/Debug/netstandard2.0/AVLTree.pdb
+/Users/ssheytanov/Documents/Svn/DS/Feb-2022/2.DS-Advanced/04. AVL-Trees-and-AA-Trees-Exercise/04. AVL-Trees-and-AA-Trees-Exercise-Skeleton/AVLTree/obj/Debug/netstandard2.0/AVLTree.csproj.AssemblyReference.cache
+/Users/ssheytanov/Documents/Svn/DS/Feb-2022/2.DS-Advanced/04. AVL-Trees-and-AA-Trees-Exercise/04. AVL-Trees-and-AA-Trees-Exercise-Skeleton/AVLTree/obj/Debug/netstandard2.0/AVLTree.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ssheytanov/Documents/Svn/DS/Feb-2022/2.DS-Advanced/04. AVL-Trees-and-AA-Trees-Exercise/04. AVL-Trees-and-AA-Trees-Exercise-Skeleton/AVLTree/obj/Debug/netstandard2.0/AVLTree.AssemblyInfoInputs.cache
+/Users/ssheytanov/Documents/Svn/DS/Feb-2022/2.DS-Advanced/04. AVL-Trees-and-AA-Trees-Exercise/04. AVL-Trees-and-AA-Trees-Exercise-Skeleton/AVLTree/obj/Debug/netstandard2.0/AVLTree.AssemblyInfo.cs
+/Users/ssheytanov/Documents/Svn/DS/Feb-2022/2.DS-Advanced/04. AVL-Trees-and-AA-Trees-Exercise/04. AVL-Trees-and-AA-Trees-Exercise-Skeleton/AVLTree/obj/Debug/netstandard2.0/AVLTree.csproj.CoreCompileInputs.cache
+/Users/ssheytanov/Documents/Svn/DS/Feb-2022/2.DS-Advanced/04. AVL-Trees-and-AA-Trees-Exercise/04. AVL-Trees-and-AA-Trees-Exercise-Skeleton/AVLTree/obj/Debug/netstandard2.0/AVLTree.dll
+/Users/ssheytanov/Documents/Svn/DS/Feb-2022/2.DS-Advanced/04. AVL-Trees-and-AA-Trees-Exercise/04. AVL-Trees-and-AA-Trees-Exercise-Skeleton/AVLTree/obj/Debug/netstandard2.0/AVLTree.pdb
+D:\Users\ray_m\source\Data-Structures-with-CSharp\02. Advanced\04. Exercise AVL Trees and AA-Trees\AVLTree\bin\Debug\netstandard2.0\AVLTree.deps.json
+D:\Users\ray_m\source\Data-Structures-with-CSharp\02. Advanced\04. Exercise AVL Trees and AA-Trees\AVLTree\bin\Debug\netstandard2.0\AVLTree.dll
+D:\Users\ray_m\source\Data-Structures-with-CSharp\02. Advanced\04. Exercise AVL Trees and AA-Trees\AVLTree\bin\Debug\netstandard2.0\AVLTree.pdb
+D:\Users\ray_m\source\Data-Structures-with-CSharp\02. Advanced\04. Exercise AVL Trees and AA-Trees\AVLTree\obj\Debug\netstandard2.0\AVLTree.csproj.AssemblyReference.cache
+D:\Users\ray_m\source\Data-Structures-with-CSharp\02. Advanced\04. Exercise AVL Trees and AA-Trees\AVLTree\obj\Debug\netstandard2.0\AVLTree.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ray_m\source\Data-Structures-with-CSharp\02. Advanced\04. Exercise AVL Trees and AA-Trees\AVLTree\obj\Debug\netstandard2.0\AVLTree.AssemblyInfoInputs.cache
+D:\Users\ray_m\source\Data-Structures-with-CSharp\02. Advanced\04. Exercise AVL Trees and AA-Trees\AVLTree\obj\Debug\netstandard2.0\AVLTree.AssemblyInfo.cs
+D:\Users\ray_m\source\Data-Structures-with-CSharp\02. Advanced\04. Exercise AVL Trees and AA-Trees\AVLTree\obj\Debug\netstandard2.0\AVLTree.csproj.CoreCompileInputs.cache
+D:\Users\ray_m\source\Data-Structures-with-CSharp\02. Advanced\04. Exercise AVL Trees and AA-Trees\AVLTree\obj\Debug\netstandard2.0\AVLTree.dll
+D:\Users\ray_m\source\Data-Structures-with-CSharp\02. Advanced\04. Exercise AVL Trees and AA-Trees\AVLTree\obj\Debug\netstandard2.0\AVLTree.pdb

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "nrgjggbBR8zQKjj668Qoh8RB/UZ38vpImh0gpMBqurnHYTQB6AviNwshU2LWK07W0a3R3Rog9gOgiRHvRTvRgA==",
+  "success": true,
+  "projectFilePath": "D:\\Users\\ray_m\\source\\Data-Structures-with-CSharp\\02. Advanced\\04. Exercise AVL Trees and AA-Trees\\AVLTree\\AVLTree.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ray_m\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\ray_m\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
