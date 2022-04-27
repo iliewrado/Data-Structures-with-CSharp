@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "IP5tTrLdDgs7w3Mj7wuPppXRns95V4cydNBDr5Odmax660MJO4h2upcXeKhp9v+UkDEvtaDIN5X9B0rogF7mQg==",
+  "success": true,
+  "projectFilePath": "D:\\Users\\ray_m\\source\\Data-Structures-with-CSharp\\02. Advanced\\05. Hash Tables Sets and Maps\\HashTable\\HashTable.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ray_m\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\ray_m\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

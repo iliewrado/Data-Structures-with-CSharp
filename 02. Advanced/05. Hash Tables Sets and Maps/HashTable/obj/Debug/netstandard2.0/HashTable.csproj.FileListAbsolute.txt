@@ -1,0 +1,20 @@
+/Users/ssheytanov/Documents/Svn/DS/Feb-2022/2.DS-Advanced/05. Hash-Tables-Sets-and-Dictionaries/05. Hash-Tables-Sets-and-Dictionaries-Lab-Skeleton/HashTable/bin/Debug/netstandard2.0/HashTable.deps.json
+/Users/ssheytanov/Documents/Svn/DS/Feb-2022/2.DS-Advanced/05. Hash-Tables-Sets-and-Dictionaries/05. Hash-Tables-Sets-and-Dictionaries-Lab-Skeleton/HashTable/bin/Debug/netstandard2.0/HashTable.dll
+/Users/ssheytanov/Documents/Svn/DS/Feb-2022/2.DS-Advanced/05. Hash-Tables-Sets-and-Dictionaries/05. Hash-Tables-Sets-and-Dictionaries-Lab-Skeleton/HashTable/bin/Debug/netstandard2.0/HashTable.pdb
+/Users/ssheytanov/Documents/Svn/DS/Feb-2022/2.DS-Advanced/05. Hash-Tables-Sets-and-Dictionaries/05. Hash-Tables-Sets-and-Dictionaries-Lab-Skeleton/HashTable/obj/Debug/netstandard2.0/HashTable.csproj.AssemblyReference.cache
+/Users/ssheytanov/Documents/Svn/DS/Feb-2022/2.DS-Advanced/05. Hash-Tables-Sets-and-Dictionaries/05. Hash-Tables-Sets-and-Dictionaries-Lab-Skeleton/HashTable/obj/Debug/netstandard2.0/HashTable.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ssheytanov/Documents/Svn/DS/Feb-2022/2.DS-Advanced/05. Hash-Tables-Sets-and-Dictionaries/05. Hash-Tables-Sets-and-Dictionaries-Lab-Skeleton/HashTable/obj/Debug/netstandard2.0/HashTable.AssemblyInfoInputs.cache
+/Users/ssheytanov/Documents/Svn/DS/Feb-2022/2.DS-Advanced/05. Hash-Tables-Sets-and-Dictionaries/05. Hash-Tables-Sets-and-Dictionaries-Lab-Skeleton/HashTable/obj/Debug/netstandard2.0/HashTable.AssemblyInfo.cs
+/Users/ssheytanov/Documents/Svn/DS/Feb-2022/2.DS-Advanced/05. Hash-Tables-Sets-and-Dictionaries/05. Hash-Tables-Sets-and-Dictionaries-Lab-Skeleton/HashTable/obj/Debug/netstandard2.0/HashTable.csproj.CoreCompileInputs.cache
+/Users/ssheytanov/Documents/Svn/DS/Feb-2022/2.DS-Advanced/05. Hash-Tables-Sets-and-Dictionaries/05. Hash-Tables-Sets-and-Dictionaries-Lab-Skeleton/HashTable/obj/Debug/netstandard2.0/HashTable.dll
+/Users/ssheytanov/Documents/Svn/DS/Feb-2022/2.DS-Advanced/05. Hash-Tables-Sets-and-Dictionaries/05. Hash-Tables-Sets-and-Dictionaries-Lab-Skeleton/HashTable/obj/Debug/netstandard2.0/HashTable.pdb
+D:\Users\ray_m\source\Data-Structures-with-CSharp\02. Advanced\05. Hash Tables Sets and Maps\HashTable\bin\Debug\netstandard2.0\HashTable.deps.json
+D:\Users\ray_m\source\Data-Structures-with-CSharp\02. Advanced\05. Hash Tables Sets and Maps\HashTable\bin\Debug\netstandard2.0\HashTable.dll
+D:\Users\ray_m\source\Data-Structures-with-CSharp\02. Advanced\05. Hash Tables Sets and Maps\HashTable\bin\Debug\netstandard2.0\HashTable.pdb
+D:\Users\ray_m\source\Data-Structures-with-CSharp\02. Advanced\05. Hash Tables Sets and Maps\HashTable\obj\Debug\netstandard2.0\HashTable.csproj.AssemblyReference.cache
+D:\Users\ray_m\source\Data-Structures-with-CSharp\02. Advanced\05. Hash Tables Sets and Maps\HashTable\obj\Debug\netstandard2.0\HashTable.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ray_m\source\Data-Structures-with-CSharp\02. Advanced\05. Hash Tables Sets and Maps\HashTable\obj\Debug\netstandard2.0\HashTable.AssemblyInfoInputs.cache
+D:\Users\ray_m\source\Data-Structures-with-CSharp\02. Advanced\05. Hash Tables Sets and Maps\HashTable\obj\Debug\netstandard2.0\HashTable.AssemblyInfo.cs
+D:\Users\ray_m\source\Data-Structures-with-CSharp\02. Advanced\05. Hash Tables Sets and Maps\HashTable\obj\Debug\netstandard2.0\HashTable.csproj.CoreCompileInputs.cache
+D:\Users\ray_m\source\Data-Structures-with-CSharp\02. Advanced\05. Hash Tables Sets and Maps\HashTable\obj\Debug\netstandard2.0\HashTable.dll
+D:\Users\ray_m\source\Data-Structures-with-CSharp\02. Advanced\05. Hash Tables Sets and Maps\HashTable\obj\Debug\netstandard2.0\HashTable.pdb
