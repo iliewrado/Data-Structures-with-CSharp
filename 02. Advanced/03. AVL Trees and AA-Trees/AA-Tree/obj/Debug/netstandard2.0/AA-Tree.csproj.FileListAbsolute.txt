@@ -1,0 +1,40 @@
+/Users/ssheytanov/Documents/Svn/DS/Feb-2022/2.DS-Advanced/03. AVL-Trees-and-AA-Trees/03. AVL-Trees-and-AA-Trees-Exercise-Skeleton/02. AA-Tree/bin/Debug/netstandard2.0/AA-Tree.deps.json
+/Users/ssheytanov/Documents/Svn/DS/Feb-2022/2.DS-Advanced/03. AVL-Trees-and-AA-Trees/03. AVL-Trees-and-AA-Trees-Exercise-Skeleton/02. AA-Tree/bin/Debug/netstandard2.0/AA-Tree.dll
+/Users/ssheytanov/Documents/Svn/DS/Feb-2022/2.DS-Advanced/03. AVL-Trees-and-AA-Trees/03. AVL-Trees-and-AA-Trees-Exercise-Skeleton/02. AA-Tree/bin/Debug/netstandard2.0/AA-Tree.pdb
+/Users/ssheytanov/Documents/Svn/DS/Feb-2022/2.DS-Advanced/03. AVL-Trees-and-AA-Trees/03. AVL-Trees-and-AA-Trees-Exercise-Skeleton/02. AA-Tree/obj/Debug/netstandard2.0/AA-Tree.csproj.AssemblyReference.cache
+/Users/ssheytanov/Documents/Svn/DS/Feb-2022/2.DS-Advanced/03. AVL-Trees-and-AA-Trees/03. AVL-Trees-and-AA-Trees-Exercise-Skeleton/02. AA-Tree/obj/Debug/netstandard2.0/AA-Tree.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ssheytanov/Documents/Svn/DS/Feb-2022/2.DS-Advanced/03. AVL-Trees-and-AA-Trees/03. AVL-Trees-and-AA-Trees-Exercise-Skeleton/02. AA-Tree/obj/Debug/netstandard2.0/AA-Tree.AssemblyInfoInputs.cache
+/Users/ssheytanov/Documents/Svn/DS/Feb-2022/2.DS-Advanced/03. AVL-Trees-and-AA-Trees/03. AVL-Trees-and-AA-Trees-Exercise-Skeleton/02. AA-Tree/obj/Debug/netstandard2.0/AA-Tree.AssemblyInfo.cs
+/Users/ssheytanov/Documents/Svn/DS/Feb-2022/2.DS-Advanced/03. AVL-Trees-and-AA-Trees/03. AVL-Trees-and-AA-Trees-Exercise-Skeleton/02. AA-Tree/obj/Debug/netstandard2.0/AA-Tree.csproj.CoreCompileInputs.cache
+/Users/ssheytanov/Documents/Svn/DS/Feb-2022/2.DS-Advanced/03. AVL-Trees-and-AA-Trees/03. AVL-Trees-and-AA-Trees-Exercise-Skeleton/02. AA-Tree/obj/Debug/netstandard2.0/AA-Tree.dll
+/Users/ssheytanov/Documents/Svn/DS/Feb-2022/2.DS-Advanced/03. AVL-Trees-and-AA-Trees/03. AVL-Trees-and-AA-Trees-Exercise-Skeleton/02. AA-Tree/obj/Debug/netstandard2.0/AA-Tree.pdb
+/Users/ssheytanov/Documents/Svn/DS/Feb-2022/2.DS-Advanced/03. AVL-Trees-and-AA-Trees/03. AVL-Trees-and-AA-Trees-Exercise-Skeleton/AA-Tree/bin/Debug/netstandard2.0/AA-Tree.deps.json
+/Users/ssheytanov/Documents/Svn/DS/Feb-2022/2.DS-Advanced/03. AVL-Trees-and-AA-Trees/03. AVL-Trees-and-AA-Trees-Exercise-Skeleton/AA-Tree/bin/Debug/netstandard2.0/AA-Tree.dll
+/Users/ssheytanov/Documents/Svn/DS/Feb-2022/2.DS-Advanced/03. AVL-Trees-and-AA-Trees/03. AVL-Trees-and-AA-Trees-Exercise-Skeleton/AA-Tree/bin/Debug/netstandard2.0/AA-Tree.pdb
+/Users/ssheytanov/Documents/Svn/DS/Feb-2022/2.DS-Advanced/03. AVL-Trees-and-AA-Trees/03. AVL-Trees-and-AA-Trees-Exercise-Skeleton/AA-Tree/obj/Debug/netstandard2.0/AA-Tree.csproj.AssemblyReference.cache
+/Users/ssheytanov/Documents/Svn/DS/Feb-2022/2.DS-Advanced/03. AVL-Trees-and-AA-Trees/03. AVL-Trees-and-AA-Trees-Exercise-Skeleton/AA-Tree/obj/Debug/netstandard2.0/AA-Tree.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ssheytanov/Documents/Svn/DS/Feb-2022/2.DS-Advanced/03. AVL-Trees-and-AA-Trees/03. AVL-Trees-and-AA-Trees-Exercise-Skeleton/AA-Tree/obj/Debug/netstandard2.0/AA-Tree.AssemblyInfoInputs.cache
+/Users/ssheytanov/Documents/Svn/DS/Feb-2022/2.DS-Advanced/03. AVL-Trees-and-AA-Trees/03. AVL-Trees-and-AA-Trees-Exercise-Skeleton/AA-Tree/obj/Debug/netstandard2.0/AA-Tree.AssemblyInfo.cs
+/Users/ssheytanov/Documents/Svn/DS/Feb-2022/2.DS-Advanced/03. AVL-Trees-and-AA-Trees/03. AVL-Trees-and-AA-Trees-Exercise-Skeleton/AA-Tree/obj/Debug/netstandard2.0/AA-Tree.csproj.CoreCompileInputs.cache
+/Users/ssheytanov/Documents/Svn/DS/Feb-2022/2.DS-Advanced/03. AVL-Trees-and-AA-Trees/03. AVL-Trees-and-AA-Trees-Exercise-Skeleton/AA-Tree/obj/Debug/netstandard2.0/AA-Tree.dll
+/Users/ssheytanov/Documents/Svn/DS/Feb-2022/2.DS-Advanced/03. AVL-Trees-and-AA-Trees/03. AVL-Trees-and-AA-Trees-Exercise-Skeleton/AA-Tree/obj/Debug/netstandard2.0/AA-Tree.pdb
+/Users/ssheytanov/Documents/Svn/DS/Feb-2022/2.DS-Advanced/03. AVL-Trees-and-AA-Trees/03. AVL-Trees-and-AA-Trees-Lab-Skeleton/AA-Tree/bin/Debug/netstandard2.0/AA-Tree.deps.json
+/Users/ssheytanov/Documents/Svn/DS/Feb-2022/2.DS-Advanced/03. AVL-Trees-and-AA-Trees/03. AVL-Trees-and-AA-Trees-Lab-Skeleton/AA-Tree/bin/Debug/netstandard2.0/AA-Tree.dll
+/Users/ssheytanov/Documents/Svn/DS/Feb-2022/2.DS-Advanced/03. AVL-Trees-and-AA-Trees/03. AVL-Trees-and-AA-Trees-Lab-Skeleton/AA-Tree/bin/Debug/netstandard2.0/AA-Tree.pdb
+/Users/ssheytanov/Documents/Svn/DS/Feb-2022/2.DS-Advanced/03. AVL-Trees-and-AA-Trees/03. AVL-Trees-and-AA-Trees-Lab-Skeleton/AA-Tree/obj/Debug/netstandard2.0/AA-Tree.csproj.AssemblyReference.cache
+/Users/ssheytanov/Documents/Svn/DS/Feb-2022/2.DS-Advanced/03. AVL-Trees-and-AA-Trees/03. AVL-Trees-and-AA-Trees-Lab-Skeleton/AA-Tree/obj/Debug/netstandard2.0/AA-Tree.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ssheytanov/Documents/Svn/DS/Feb-2022/2.DS-Advanced/03. AVL-Trees-and-AA-Trees/03. AVL-Trees-and-AA-Trees-Lab-Skeleton/AA-Tree/obj/Debug/netstandard2.0/AA-Tree.AssemblyInfoInputs.cache
+/Users/ssheytanov/Documents/Svn/DS/Feb-2022/2.DS-Advanced/03. AVL-Trees-and-AA-Trees/03. AVL-Trees-and-AA-Trees-Lab-Skeleton/AA-Tree/obj/Debug/netstandard2.0/AA-Tree.AssemblyInfo.cs
+/Users/ssheytanov/Documents/Svn/DS/Feb-2022/2.DS-Advanced/03. AVL-Trees-and-AA-Trees/03. AVL-Trees-and-AA-Trees-Lab-Skeleton/AA-Tree/obj/Debug/netstandard2.0/AA-Tree.csproj.CoreCompileInputs.cache
+/Users/ssheytanov/Documents/Svn/DS/Feb-2022/2.DS-Advanced/03. AVL-Trees-and-AA-Trees/03. AVL-Trees-and-AA-Trees-Lab-Skeleton/AA-Tree/obj/Debug/netstandard2.0/AA-Tree.dll
+/Users/ssheytanov/Documents/Svn/DS/Feb-2022/2.DS-Advanced/03. AVL-Trees-and-AA-Trees/03. AVL-Trees-and-AA-Trees-Lab-Skeleton/AA-Tree/obj/Debug/netstandard2.0/AA-Tree.pdb
+D:\Users\ray_m\source\Data-Structures-with-CSharp\02. Advanced\03. AVL Trees and AA-Trees\AA-Tree\bin\Debug\netstandard2.0\AA-Tree.deps.json
+D:\Users\ray_m\source\Data-Structures-with-CSharp\02. Advanced\03. AVL Trees and AA-Trees\AA-Tree\bin\Debug\netstandard2.0\AA-Tree.dll
+D:\Users\ray_m\source\Data-Structures-with-CSharp\02. Advanced\03. AVL Trees and AA-Trees\AA-Tree\bin\Debug\netstandard2.0\AA-Tree.pdb
+D:\Users\ray_m\source\Data-Structures-with-CSharp\02. Advanced\03. AVL Trees and AA-Trees\AA-Tree\obj\Debug\netstandard2.0\AA-Tree.csproj.AssemblyReference.cache
+D:\Users\ray_m\source\Data-Structures-with-CSharp\02. Advanced\03. AVL Trees and AA-Trees\AA-Tree\obj\Debug\netstandard2.0\AA-Tree.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ray_m\source\Data-Structures-with-CSharp\02. Advanced\03. AVL Trees and AA-Trees\AA-Tree\obj\Debug\netstandard2.0\AA-Tree.AssemblyInfoInputs.cache
+D:\Users\ray_m\source\Data-Structures-with-CSharp\02. Advanced\03. AVL Trees and AA-Trees\AA-Tree\obj\Debug\netstandard2.0\AA-Tree.AssemblyInfo.cs
+D:\Users\ray_m\source\Data-Structures-with-CSharp\02. Advanced\03. AVL Trees and AA-Trees\AA-Tree\obj\Debug\netstandard2.0\AA-Tree.csproj.CoreCompileInputs.cache
+D:\Users\ray_m\source\Data-Structures-with-CSharp\02. Advanced\03. AVL Trees and AA-Trees\AA-Tree\obj\Debug\netstandard2.0\AA-Tree.dll
+D:\Users\ray_m\source\Data-Structures-with-CSharp\02. Advanced\03. AVL Trees and AA-Trees\AA-Tree\obj\Debug\netstandard2.0\AA-Tree.pdb
