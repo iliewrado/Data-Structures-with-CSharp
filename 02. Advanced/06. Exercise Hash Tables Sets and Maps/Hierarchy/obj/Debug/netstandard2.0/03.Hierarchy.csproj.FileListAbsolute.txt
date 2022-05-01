@@ -1,0 +1,20 @@
+/Users/ssheytanov/Documents/Svn/DS/Feb-2022/2.DS-Advanced/06. Hash-Tables-Sets-and-Dictionaries-Exercise/06. Hash-Tables-Sets-and-Dictionaries-Exercise-Skeleton/Hierarchy/bin/Debug/netstandard2.0/03.Hierarchy.deps.json
+/Users/ssheytanov/Documents/Svn/DS/Feb-2022/2.DS-Advanced/06. Hash-Tables-Sets-and-Dictionaries-Exercise/06. Hash-Tables-Sets-and-Dictionaries-Exercise-Skeleton/Hierarchy/bin/Debug/netstandard2.0/03.Hierarchy.dll
+/Users/ssheytanov/Documents/Svn/DS/Feb-2022/2.DS-Advanced/06. Hash-Tables-Sets-and-Dictionaries-Exercise/06. Hash-Tables-Sets-and-Dictionaries-Exercise-Skeleton/Hierarchy/bin/Debug/netstandard2.0/03.Hierarchy.pdb
+/Users/ssheytanov/Documents/Svn/DS/Feb-2022/2.DS-Advanced/06. Hash-Tables-Sets-and-Dictionaries-Exercise/06. Hash-Tables-Sets-and-Dictionaries-Exercise-Skeleton/Hierarchy/obj/Debug/netstandard2.0/03.Hierarchy.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ssheytanov/Documents/Svn/DS/Feb-2022/2.DS-Advanced/06. Hash-Tables-Sets-and-Dictionaries-Exercise/06. Hash-Tables-Sets-and-Dictionaries-Exercise-Skeleton/Hierarchy/obj/Debug/netstandard2.0/03.Hierarchy.AssemblyInfoInputs.cache
+/Users/ssheytanov/Documents/Svn/DS/Feb-2022/2.DS-Advanced/06. Hash-Tables-Sets-and-Dictionaries-Exercise/06. Hash-Tables-Sets-and-Dictionaries-Exercise-Skeleton/Hierarchy/obj/Debug/netstandard2.0/03.Hierarchy.AssemblyInfo.cs
+/Users/ssheytanov/Documents/Svn/DS/Feb-2022/2.DS-Advanced/06. Hash-Tables-Sets-and-Dictionaries-Exercise/06. Hash-Tables-Sets-and-Dictionaries-Exercise-Skeleton/Hierarchy/obj/Debug/netstandard2.0/03.Hierarchy.csproj.CoreCompileInputs.cache
+/Users/ssheytanov/Documents/Svn/DS/Feb-2022/2.DS-Advanced/06. Hash-Tables-Sets-and-Dictionaries-Exercise/06. Hash-Tables-Sets-and-Dictionaries-Exercise-Skeleton/Hierarchy/obj/Debug/netstandard2.0/03.Hierarchy.dll
+/Users/ssheytanov/Documents/Svn/DS/Feb-2022/2.DS-Advanced/06. Hash-Tables-Sets-and-Dictionaries-Exercise/06. Hash-Tables-Sets-and-Dictionaries-Exercise-Skeleton/Hierarchy/obj/Debug/netstandard2.0/03.Hierarchy.pdb
+/Users/ssheytanov/Documents/Svn/DS/Feb-2022/2.DS-Advanced/06. Hash-Tables-Sets-and-Dictionaries-Exercise/06. Hash-Tables-Sets-and-Dictionaries-Exercise-Skeleton/Hierarchy/obj/Debug/netstandard2.0/03.Hierarchy.csproj.AssemblyReference.cache
+D:\Users\ray_m\source\Data-Structures-with-CSharp\02. Advanced\06. Exercise Hash Tables Sets and Maps\Hierarchy\bin\Debug\netstandard2.0\03.Hierarchy.deps.json
+D:\Users\ray_m\source\Data-Structures-with-CSharp\02. Advanced\06. Exercise Hash Tables Sets and Maps\Hierarchy\bin\Debug\netstandard2.0\03.Hierarchy.dll
+D:\Users\ray_m\source\Data-Structures-with-CSharp\02. Advanced\06. Exercise Hash Tables Sets and Maps\Hierarchy\bin\Debug\netstandard2.0\03.Hierarchy.pdb
+D:\Users\ray_m\source\Data-Structures-with-CSharp\02. Advanced\06. Exercise Hash Tables Sets and Maps\Hierarchy\obj\Debug\netstandard2.0\03.Hierarchy.csproj.AssemblyReference.cache
+D:\Users\ray_m\source\Data-Structures-with-CSharp\02. Advanced\06. Exercise Hash Tables Sets and Maps\Hierarchy\obj\Debug\netstandard2.0\03.Hierarchy.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ray_m\source\Data-Structures-with-CSharp\02. Advanced\06. Exercise Hash Tables Sets and Maps\Hierarchy\obj\Debug\netstandard2.0\03.Hierarchy.AssemblyInfoInputs.cache
+D:\Users\ray_m\source\Data-Structures-with-CSharp\02. Advanced\06. Exercise Hash Tables Sets and Maps\Hierarchy\obj\Debug\netstandard2.0\03.Hierarchy.AssemblyInfo.cs
+D:\Users\ray_m\source\Data-Structures-with-CSharp\02. Advanced\06. Exercise Hash Tables Sets and Maps\Hierarchy\obj\Debug\netstandard2.0\03.Hierarchy.csproj.CoreCompileInputs.cache
+D:\Users\ray_m\source\Data-Structures-with-CSharp\02. Advanced\06. Exercise Hash Tables Sets and Maps\Hierarchy\obj\Debug\netstandard2.0\03.Hierarchy.dll
+D:\Users\ray_m\source\Data-Structures-with-CSharp\02. Advanced\06. Exercise Hash Tables Sets and Maps\Hierarchy\obj\Debug\netstandard2.0\03.Hierarchy.pdb

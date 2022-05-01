@@ -1,0 +1,27 @@
+/Users/ssheytanov/Documents/Svn/DS/Feb-2022/2.DS-Advanced/06. Hash-Tables-Sets-and-Dictionaries-Exercise/06. Hash-Tables-Sets-and-Dictionaries-Exercise-Skeleton/WordCruncher/bin/Debug/netcoreapp3.1/02.WordCruncher.deps.json
+/Users/ssheytanov/Documents/Svn/DS/Feb-2022/2.DS-Advanced/06. Hash-Tables-Sets-and-Dictionaries-Exercise/06. Hash-Tables-Sets-and-Dictionaries-Exercise-Skeleton/WordCruncher/bin/Debug/netcoreapp3.1/02.WordCruncher.runtimeconfig.json
+/Users/ssheytanov/Documents/Svn/DS/Feb-2022/2.DS-Advanced/06. Hash-Tables-Sets-and-Dictionaries-Exercise/06. Hash-Tables-Sets-and-Dictionaries-Exercise-Skeleton/WordCruncher/bin/Debug/netcoreapp3.1/02.WordCruncher.runtimeconfig.dev.json
+/Users/ssheytanov/Documents/Svn/DS/Feb-2022/2.DS-Advanced/06. Hash-Tables-Sets-and-Dictionaries-Exercise/06. Hash-Tables-Sets-and-Dictionaries-Exercise-Skeleton/WordCruncher/bin/Debug/netcoreapp3.1/02.WordCruncher.dll
+/Users/ssheytanov/Documents/Svn/DS/Feb-2022/2.DS-Advanced/06. Hash-Tables-Sets-and-Dictionaries-Exercise/06. Hash-Tables-Sets-and-Dictionaries-Exercise-Skeleton/WordCruncher/bin/Debug/netcoreapp3.1/02.WordCruncher.pdb
+/Users/ssheytanov/Documents/Svn/DS/Feb-2022/2.DS-Advanced/06. Hash-Tables-Sets-and-Dictionaries-Exercise/06. Hash-Tables-Sets-and-Dictionaries-Exercise-Skeleton/WordCruncher/obj/Debug/netcoreapp3.1/02.WordCruncher.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ssheytanov/Documents/Svn/DS/Feb-2022/2.DS-Advanced/06. Hash-Tables-Sets-and-Dictionaries-Exercise/06. Hash-Tables-Sets-and-Dictionaries-Exercise-Skeleton/WordCruncher/obj/Debug/netcoreapp3.1/02.WordCruncher.AssemblyInfoInputs.cache
+/Users/ssheytanov/Documents/Svn/DS/Feb-2022/2.DS-Advanced/06. Hash-Tables-Sets-and-Dictionaries-Exercise/06. Hash-Tables-Sets-and-Dictionaries-Exercise-Skeleton/WordCruncher/obj/Debug/netcoreapp3.1/02.WordCruncher.AssemblyInfo.cs
+/Users/ssheytanov/Documents/Svn/DS/Feb-2022/2.DS-Advanced/06. Hash-Tables-Sets-and-Dictionaries-Exercise/06. Hash-Tables-Sets-and-Dictionaries-Exercise-Skeleton/WordCruncher/obj/Debug/netcoreapp3.1/02.WordCruncher.csproj.CoreCompileInputs.cache
+/Users/ssheytanov/Documents/Svn/DS/Feb-2022/2.DS-Advanced/06. Hash-Tables-Sets-and-Dictionaries-Exercise/06. Hash-Tables-Sets-and-Dictionaries-Exercise-Skeleton/WordCruncher/obj/Debug/netcoreapp3.1/02.WordCruncher.dll
+/Users/ssheytanov/Documents/Svn/DS/Feb-2022/2.DS-Advanced/06. Hash-Tables-Sets-and-Dictionaries-Exercise/06. Hash-Tables-Sets-and-Dictionaries-Exercise-Skeleton/WordCruncher/obj/Debug/netcoreapp3.1/02.WordCruncher.pdb
+/Users/ssheytanov/Documents/Svn/DS/Feb-2022/2.DS-Advanced/06. Hash-Tables-Sets-and-Dictionaries-Exercise/06. Hash-Tables-Sets-and-Dictionaries-Exercise-Skeleton/WordCruncher/obj/Debug/netcoreapp3.1/02.WordCruncher.genruntimeconfig.cache
+/Users/ssheytanov/Documents/Svn/DS/Feb-2022/2.DS-Advanced/06. Hash-Tables-Sets-and-Dictionaries-Exercise/06. Hash-Tables-Sets-and-Dictionaries-Exercise-Skeleton/WordCruncher/obj/Debug/netcoreapp3.1/02.WordCruncher.csproj.AssemblyReference.cache
+D:\Users\ray_m\source\Data-Structures-with-CSharp\02. Advanced\06. Exercise Hash Tables Sets and Maps\WordCruncher\bin\Debug\netcoreapp3.1\02.WordCruncher.exe
+D:\Users\ray_m\source\Data-Structures-with-CSharp\02. Advanced\06. Exercise Hash Tables Sets and Maps\WordCruncher\bin\Debug\netcoreapp3.1\02.WordCruncher.deps.json
+D:\Users\ray_m\source\Data-Structures-with-CSharp\02. Advanced\06. Exercise Hash Tables Sets and Maps\WordCruncher\bin\Debug\netcoreapp3.1\02.WordCruncher.runtimeconfig.json
+D:\Users\ray_m\source\Data-Structures-with-CSharp\02. Advanced\06. Exercise Hash Tables Sets and Maps\WordCruncher\bin\Debug\netcoreapp3.1\02.WordCruncher.runtimeconfig.dev.json
+D:\Users\ray_m\source\Data-Structures-with-CSharp\02. Advanced\06. Exercise Hash Tables Sets and Maps\WordCruncher\bin\Debug\netcoreapp3.1\02.WordCruncher.dll
+D:\Users\ray_m\source\Data-Structures-with-CSharp\02. Advanced\06. Exercise Hash Tables Sets and Maps\WordCruncher\bin\Debug\netcoreapp3.1\02.WordCruncher.pdb
+D:\Users\ray_m\source\Data-Structures-with-CSharp\02. Advanced\06. Exercise Hash Tables Sets and Maps\WordCruncher\obj\Debug\netcoreapp3.1\02.WordCruncher.csproj.AssemblyReference.cache
+D:\Users\ray_m\source\Data-Structures-with-CSharp\02. Advanced\06. Exercise Hash Tables Sets and Maps\WordCruncher\obj\Debug\netcoreapp3.1\02.WordCruncher.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ray_m\source\Data-Structures-with-CSharp\02. Advanced\06. Exercise Hash Tables Sets and Maps\WordCruncher\obj\Debug\netcoreapp3.1\02.WordCruncher.AssemblyInfoInputs.cache
+D:\Users\ray_m\source\Data-Structures-with-CSharp\02. Advanced\06. Exercise Hash Tables Sets and Maps\WordCruncher\obj\Debug\netcoreapp3.1\02.WordCruncher.AssemblyInfo.cs
+D:\Users\ray_m\source\Data-Structures-with-CSharp\02. Advanced\06. Exercise Hash Tables Sets and Maps\WordCruncher\obj\Debug\netcoreapp3.1\02.WordCruncher.csproj.CoreCompileInputs.cache
+D:\Users\ray_m\source\Data-Structures-with-CSharp\02. Advanced\06. Exercise Hash Tables Sets and Maps\WordCruncher\obj\Debug\netcoreapp3.1\02.WordCruncher.dll
+D:\Users\ray_m\source\Data-Structures-with-CSharp\02. Advanced\06. Exercise Hash Tables Sets and Maps\WordCruncher\obj\Debug\netcoreapp3.1\02.WordCruncher.pdb
+D:\Users\ray_m\source\Data-Structures-with-CSharp\02. Advanced\06. Exercise Hash Tables Sets and Maps\WordCruncher\obj\Debug\netcoreapp3.1\02.WordCruncher.genruntimeconfig.cache
