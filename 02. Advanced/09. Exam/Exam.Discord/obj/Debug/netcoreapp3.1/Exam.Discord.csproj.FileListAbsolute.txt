@@ -1,0 +1,14 @@
+D:\Users\ray_m\source\Data-Structures-with-CSharp\02. Advanced\09. Exam\Exam.Discord\bin\Debug\netcoreapp3.1\Exam.Discord.exe
+D:\Users\ray_m\source\Data-Structures-with-CSharp\02. Advanced\09. Exam\Exam.Discord\bin\Debug\netcoreapp3.1\Exam.Discord.deps.json
+D:\Users\ray_m\source\Data-Structures-with-CSharp\02. Advanced\09. Exam\Exam.Discord\bin\Debug\netcoreapp3.1\Exam.Discord.runtimeconfig.json
+D:\Users\ray_m\source\Data-Structures-with-CSharp\02. Advanced\09. Exam\Exam.Discord\bin\Debug\netcoreapp3.1\Exam.Discord.runtimeconfig.dev.json
+D:\Users\ray_m\source\Data-Structures-with-CSharp\02. Advanced\09. Exam\Exam.Discord\bin\Debug\netcoreapp3.1\Exam.Discord.dll
+D:\Users\ray_m\source\Data-Structures-with-CSharp\02. Advanced\09. Exam\Exam.Discord\bin\Debug\netcoreapp3.1\Exam.Discord.pdb
+D:\Users\ray_m\source\Data-Structures-with-CSharp\02. Advanced\09. Exam\Exam.Discord\obj\Debug\netcoreapp3.1\Exam.Discord.csproj.AssemblyReference.cache
+D:\Users\ray_m\source\Data-Structures-with-CSharp\02. Advanced\09. Exam\Exam.Discord\obj\Debug\netcoreapp3.1\Exam.Discord.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ray_m\source\Data-Structures-with-CSharp\02. Advanced\09. Exam\Exam.Discord\obj\Debug\netcoreapp3.1\Exam.Discord.AssemblyInfoInputs.cache
+D:\Users\ray_m\source\Data-Structures-with-CSharp\02. Advanced\09. Exam\Exam.Discord\obj\Debug\netcoreapp3.1\Exam.Discord.AssemblyInfo.cs
+D:\Users\ray_m\source\Data-Structures-with-CSharp\02. Advanced\09. Exam\Exam.Discord\obj\Debug\netcoreapp3.1\Exam.Discord.csproj.CoreCompileInputs.cache
+D:\Users\ray_m\source\Data-Structures-with-CSharp\02. Advanced\09. Exam\Exam.Discord\obj\Debug\netcoreapp3.1\Exam.Discord.dll
+D:\Users\ray_m\source\Data-Structures-with-CSharp\02. Advanced\09. Exam\Exam.Discord\obj\Debug\netcoreapp3.1\Exam.Discord.pdb
+D:\Users\ray_m\source\Data-Structures-with-CSharp\02. Advanced\09. Exam\Exam.Discord\obj\Debug\netcoreapp3.1\Exam.Discord.genruntimeconfig.cache

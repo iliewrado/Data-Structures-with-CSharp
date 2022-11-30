@@ -1,0 +1,14 @@
+D:\Users\ray_m\source\Data-Structures-with-CSharp\02. Advanced\09. Exam\Exam.MoovIt\bin\Debug\netcoreapp3.1\Exam.MoovIt.exe
+D:\Users\ray_m\source\Data-Structures-with-CSharp\02. Advanced\09. Exam\Exam.MoovIt\bin\Debug\netcoreapp3.1\Exam.MoovIt.deps.json
+D:\Users\ray_m\source\Data-Structures-with-CSharp\02. Advanced\09. Exam\Exam.MoovIt\bin\Debug\netcoreapp3.1\Exam.MoovIt.runtimeconfig.json
+D:\Users\ray_m\source\Data-Structures-with-CSharp\02. Advanced\09. Exam\Exam.MoovIt\bin\Debug\netcoreapp3.1\Exam.MoovIt.runtimeconfig.dev.json
+D:\Users\ray_m\source\Data-Structures-with-CSharp\02. Advanced\09. Exam\Exam.MoovIt\bin\Debug\netcoreapp3.1\Exam.MoovIt.dll
+D:\Users\ray_m\source\Data-Structures-with-CSharp\02. Advanced\09. Exam\Exam.MoovIt\bin\Debug\netcoreapp3.1\Exam.MoovIt.pdb
+D:\Users\ray_m\source\Data-Structures-with-CSharp\02. Advanced\09. Exam\Exam.MoovIt\obj\Debug\netcoreapp3.1\Exam.MoovIt.csproj.AssemblyReference.cache
+D:\Users\ray_m\source\Data-Structures-with-CSharp\02. Advanced\09. Exam\Exam.MoovIt\obj\Debug\netcoreapp3.1\Exam.MoovIt.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ray_m\source\Data-Structures-with-CSharp\02. Advanced\09. Exam\Exam.MoovIt\obj\Debug\netcoreapp3.1\Exam.MoovIt.AssemblyInfoInputs.cache
+D:\Users\ray_m\source\Data-Structures-with-CSharp\02. Advanced\09. Exam\Exam.MoovIt\obj\Debug\netcoreapp3.1\Exam.MoovIt.AssemblyInfo.cs
+D:\Users\ray_m\source\Data-Structures-with-CSharp\02. Advanced\09. Exam\Exam.MoovIt\obj\Debug\netcoreapp3.1\Exam.MoovIt.csproj.CoreCompileInputs.cache
+D:\Users\ray_m\source\Data-Structures-with-CSharp\02. Advanced\09. Exam\Exam.MoovIt\obj\Debug\netcoreapp3.1\Exam.MoovIt.dll
+D:\Users\ray_m\source\Data-Structures-with-CSharp\02. Advanced\09. Exam\Exam.MoovIt\obj\Debug\netcoreapp3.1\Exam.MoovIt.pdb
+D:\Users\ray_m\source\Data-Structures-with-CSharp\02. Advanced\09. Exam\Exam.MoovIt\obj\Debug\netcoreapp3.1\Exam.MoovIt.genruntimeconfig.cache
