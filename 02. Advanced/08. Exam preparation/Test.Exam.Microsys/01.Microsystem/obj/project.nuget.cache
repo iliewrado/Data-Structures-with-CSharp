@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "uKUkopz4k5gSwJZwW8qsF2MvZo9Pxy0BDw/ZK9Rst8qiZSaiU+YpgCp+l+YHwLg6rgOmaRCKDwQmUqwLRiD1uQ==",
+  "success": true,
+  "projectFilePath": "D:\\Users\\ray_m\\source\\Data-Structures-with-CSharp\\02. Advanced\\08. Exam preparation\\01.Microsystem\\01.Microsystem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ray_m\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\ray_m\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
