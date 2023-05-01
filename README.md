@@ -1,7 +1,6 @@
 # Data-Structures-with-CSharp
 Data Structures with C#
 01. Fundamentals
-![logo-white](https://user-images.githubusercontent.com/87384771/235505144-d2819d4d-702f-4a11-b46e-1d63be3b51ab.svg)
-
+![Data Structures Fundamentals (with C#) - February 2022 - Certificate](https://user-images.githubusercontent.com/87384771/235505516-1e87ac5a-c7bb-422f-ac94-a1a7b3ff5f96.jpeg)
 02. Advanced
-![logo-white](https://user-images.githubusercontent.com/87384771/235505257-c145adff-1b7b-4988-b7eb-f719d1a48cd9.svg)
+![Data Structures Advanced (with C#) - April 2022 - Certificate](https://user-images.githubusercontent.com/87384771/235505545-da91b22e-72e7-4cb8-81b1-3e0e9d79128e.jpeg)
